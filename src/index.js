@@ -123,7 +123,7 @@ class Janken extends React.Component {
                         {this.state.com}
                     </div>
                     <div className="images">
-                        <img src={this.state.images} alt="Logo" className="image" />;
+                        <img src={this.state.images} alt="Logo" className="image" />
                     </div>
 
                     <Board
